@@ -137,6 +137,8 @@ The overall steps used to create this project are as follows:
 
 11. Add `Data/DbInitializer.cs` to take care of DB setup and seeding
 
+12. Add `.gitignore` from [here](https://stackoverflow.com/a/39289838/14703577)
+
 ## VSCode Tips
 
 -   Install the C# extension (it's a workspace recommendation in this template)
